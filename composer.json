@@ -1,0 +1,12 @@
+{
+    "name": "bib/ytsu",
+    "description": "yt grab",
+    "license": "apache",
+    "authors": [
+        {
+            "name": "sinkaroid",
+            "email": "bibsindra@gmail.com"
+        }
+    ],
+    "require": {}
+}
